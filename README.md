@@ -35,3 +35,7 @@ lastButtonState = buttonState; }
 OUTPUT:
 
 ![WhatsApp Image 2025-07-06 at 21 11 42_b31b7d1a](https://github.com/user-attachments/assets/9cfb6f72-fd0c-4b5d-8996-16a0fb9d8e2b)
+
+WORKING DEMO:
+
+https://youtu.be/hIQgd8ydFac?si=n8fogsGnqSqnytBo
